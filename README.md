@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-shell, basics
+# #!/bin/bash 
+pwd
